@@ -1,5 +1,5 @@
 # OCR_APP_Vehicle
-1.行驶证云识别，可以拍照或导入身份证图片进行识别
+1.云脉行驶证云识别，可以拍照或导入身份证图片进行识别
 
 2.https://github.com/xmyunmai/OCR_APP_Vehicle 下载demo
 
